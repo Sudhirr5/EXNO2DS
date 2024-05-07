@@ -1,4 +1,4 @@
-# EXNO2DS
+# EX:2 EDA Analysis using Python
 # AIM:
      To perform Exploratory Data Analysis on the given data set.
       
@@ -24,8 +24,8 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 ## CODING AND OUTPUT
 ```
-NAME : SUDHIR KUAMR.R
-REG NO : 212223230221
+Developed by : SUDHIR KUAMR.R
+Register number : 212223230221
 ```
 ```
 import pandas as pd
